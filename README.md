@@ -1,1 +1,1 @@
-# guess-tthe-number
+# guess-the-number
